@@ -1,0 +1,50 @@
+---
+title: "Email Document"
+output: blastula::blastula_email
+---
+
+```{r calculations}
+```
+
+## Hello Team,
+
+Here is the daily pulse of the `r PORT` Portfolio as of `r Sys.Date()`.
+
+
+```{r scatter, include=FALSE}
+```
+
+`r add_ggplot(portfolio_scatter, width = 4, height = 4)`
+
+The returns as of `r Sys.Date()`: 
+
+```{r density, include=FALSE}
+```
+
+`r add_ggplot(sortino_density_plot, width = 4, height = 4)`
+
+Here are the raw numbers. A spreadsheet and powerpoint deck are attached:
+
+```{r, echo = FALSE}
+  
+sign_formatter <- formatter("span", 
+  style = x ~ style(color = ifelse(x > 0, "green", 
+    ifelse(x < 0, "red", "black"))))
+
+
+tbl <- 
+  portfolio_selected %>%
+  arrange(desc(date)) %>% 
+  head() %>% 
+  format_table(x = .,
+               list(returns = sign_formatter))
+
+tbl
+
+```
+
+
+### Let me know if you have any questions.
+    
+Thanks,
+JKR
