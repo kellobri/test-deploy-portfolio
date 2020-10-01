@@ -1811,6 +1811,9 @@
     }
   },
   "files": {
+    "config.yml": {
+      "checksum": "58596c8b77d8473ee6e7f023c798ae7b"
+    },
     "packrat/desc/askpass": {
       "checksum": "94189e2591613758acecb70968843b7e"
     },
