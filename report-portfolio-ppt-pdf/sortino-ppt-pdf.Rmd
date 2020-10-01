@@ -33,8 +33,7 @@ params:
 resource_files:
 - config.yml
 - template/template3.pptx
-output:
-  tufte::tufte_handout: default
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
