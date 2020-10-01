@@ -63,6 +63,7 @@ library(formattable)
 library(RColorBrewer)
 library(PerformanceAnalytics)
 library(zoo)
+library(tufte)
 ```
 
 ```{r, calculations}
