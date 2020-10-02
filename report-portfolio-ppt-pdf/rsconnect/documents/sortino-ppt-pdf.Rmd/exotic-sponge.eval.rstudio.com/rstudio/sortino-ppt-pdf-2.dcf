@@ -1,0 +1,12 @@
+name: sortino-ppt-pdf-2
+title: sortino-ppt-pdf-2
+username: rstudio
+account: rstudio
+server: exotic-sponge.eval.rstudio.com
+hostUrl: https://exotic-sponge.eval.rstudio.com/rsconnect/__api__
+appId: 19
+bundleId: 26
+url: https://exotic-sponge.eval.rstudio.com/rsconnect/content/19/
+when: 1601598028.33201
+asMultiple: FALSE
+asStatic: FALSE
