@@ -2,7 +2,7 @@
   "version": 1,
   "metadata": {
     "appmode": "jupyter-static",
-    "entrypoint": "Plot Nine Tutorial.ipynb"
+    "entrypoint": "plotnine-tutorial.ipynb"
   },
   "locale": "en_US.UTF-8",
   "python": {
