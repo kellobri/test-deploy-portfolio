@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "Plot Nine Tutorial.ipynb"
+  },
+  "locale": "en_US.UTF-8",
+  "python": {
+    "version": "3.8.4",
+    "package_manager": {
+      "name": "pip",
+      "version": "20.2.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "Plot Nine Tutorial.ipynb": {
+      "checksum": "c098a4079ebf7aa11667f2e0f7b355f1"
+    },
+    "requirements.txt": {
+      "checksum": "563fa26d40e500a28020e08b0e493d04"
+    }
+  }
+}
