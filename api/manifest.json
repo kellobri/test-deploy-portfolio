@@ -29,7 +29,7 @@
         "Packaged": "2019-12-28 14:48:54.73981 UTC; edd",
         "Repository": "CRAN",
         "Date/Publication": "2020-01-08 23:20:08 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 00:36:00 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:15:59 UTC; unix"
       }
     },
     "DBI": {
@@ -57,7 +57,7 @@
         "Maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
         "Repository": "CRAN",
         "Date/Publication": "2019-12-15 09:50:02 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 00:55:34 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:41:13 UTC; unix"
       }
     },
     "R6": {
@@ -82,7 +82,7 @@
         "Maintainer": "Winston Chang <winston@stdout.org>",
         "Repository": "CRAN",
         "Date/Publication": "2019-11-12 22:50:03 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 00:33:15 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:12:33 UTC; unix"
       }
     },
     "RSQLite": {
@@ -160,7 +160,7 @@
         "Maintainer": "Hadley Wickham <hadley@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2019-03-21 14:53:46 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 00:36:06 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:16:37 UTC; unix"
       }
     },
     "bit": {
@@ -242,7 +242,7 @@
         "Maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
         "Repository": "CRAN",
         "Date/Publication": "2020-01-20 22:50:02 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 00:55:09 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:40:13 UTC; unix"
       }
     },
     "cli": {
@@ -270,7 +270,7 @@
         "Maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-02-28 12:10:13 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 14:41:17 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 21:45:51 UTC; unix"
       }
     },
     "config": {
@@ -296,7 +296,7 @@
         "Maintainer": "JJ Allaire <jj@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2018-03-27 20:38:53 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 02:16:23 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 08:24:37 UTC; unix"
       }
     },
     "crayon": {
@@ -323,7 +323,7 @@
         "Maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
         "Repository": "CRAN",
         "Date/Publication": "2017-09-16 19:49:46 UTC",
-        "Built": "R 4.0.0; ; 2020-04-24 11:29:36 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:13:39 UTC; unix"
       }
     },
     "curl": {
@@ -353,7 +353,7 @@
         "Maintainer": "Jeroen Ooms <jeroen@berkeley.edu>",
         "Repository": "CRAN",
         "Date/Publication": "2019-12-02 14:00:03 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-04-25 00:40:13 UTC; unix"
+        "Built": "R 4.0.1; x86_64-apple-darwin17.0; 2020-06-15 06:39:58 UTC; unix"
       }
     },
     "dbplyr": {
@@ -385,7 +385,7 @@
         "Maintainer": "Hadley Wickham <hadley@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-05-27 05:30:05 UTC",
-        "Built": "R 4.0.0; ; 2020-05-30 16:25:15 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-16 12:04:46 UTC; unix"
       }
     },
     "digest": {
@@ -410,7 +410,7 @@
         "Packaged": "2020-02-22 14:55:28.282493 UTC; edd",
         "Repository": "CRAN",
         "Date/Publication": "2020-02-23 00:10:02 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-04-25 00:33:01 UTC; unix"
+        "Built": "R 4.0.2; x86_64-apple-darwin17.0; 2020-07-15 06:11:50 UTC; unix"
       }
     },
     "dplyr": {
@@ -466,7 +466,7 @@
         "Maintainer": "Hadley Wickham <hadley@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-05-15 14:10:06 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-05-18 06:04:34 UTC; unix"
+        "Built": "R 4.0.2; x86_64-apple-darwin17.0; 2020-07-15 06:17:06 UTC; unix"
       }
     },
     "fansi": {
@@ -494,7 +494,7 @@
         "Maintainer": "Brodie Gaslam <brodie.gaslam@yahoo.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-01-08 23:01:29 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-04-25 00:36:38 UTC; unix"
+        "Built": "R 4.0.2; x86_64-apple-darwin17.0; 2020-07-15 06:17:19 UTC; unix"
       }
     },
     "generics": {
@@ -521,7 +521,7 @@
         "Maintainer": "Max Kuhn <max@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2018-11-29 13:20:03 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 00:46:54 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:20:15 UTC; unix"
       }
     },
     "glue": {
@@ -580,7 +580,7 @@
         "Maintainer": "Winston Chang <winston@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-06-06 05:00:06 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-06-08 23:27:35 UTC; unix"
+        "Built": "R 4.0.2; x86_64-apple-darwin17.0; 2020-07-16 11:41:46 UTC; unix"
       }
     },
     "jsonlite": {
@@ -633,7 +633,7 @@
         "Maintainer": "Joe Cheng <joe@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-06-05 10:10:13 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-06-07 11:00:16 UTC; unix"
+        "Built": "R 4.0.2; x86_64-apple-darwin17.0; 2020-07-15 21:45:39 UTC; unix"
       }
     },
     "lifecycle": {
@@ -661,7 +661,7 @@
         "Maintainer": "Lionel Henry <lionel@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-03-06 16:20:02 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 00:38:07 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:19:05 UTC; unix"
       }
     },
     "magrittr": {
@@ -683,7 +683,7 @@
         "NeedsCompilation": "no",
         "Repository": "CRAN",
         "Date/Publication": "2014-11-22 19:15:57",
-        "Built": "R 4.0.0; ; 2020-04-25 00:32:18 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:11:39 UTC; unix"
       }
     },
     "memoise": {
@@ -709,7 +709,7 @@
         "Maintainer": "Jim Hester <jim.hester@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2017-04-21 05:54:22 UTC",
-        "Built": "R 4.0.0; ; 2020-05-18 06:18:25 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:32:05 UTC; unix"
       }
     },
     "mime": {
@@ -735,7 +735,7 @@
         "Maintainer": "Yihui Xie <xie@yihui.name>",
         "Repository": "CRAN",
         "Date/Publication": "2020-02-04 18:20:06 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-04-25 00:33:51 UTC; unix"
+        "Built": "R 4.0.2; x86_64-apple-darwin17.0; 2020-07-15 06:13:18 UTC; unix"
       }
     },
     "pillar": {
@@ -761,7 +761,7 @@
         "Maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
         "Repository": "CRAN",
         "Date/Publication": "2020-07-10 17:10:13 UTC",
-        "Built": "R 4.0.0; ; 2020-07-16 16:04:47 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 21:47:10 UTC; unix"
       }
     },
     "pkgconfig": {
@@ -785,7 +785,7 @@
         "Packaged": "2019-09-22 08:42:40 UTC; gaborcsardi",
         "Repository": "CRAN",
         "Date/Publication": "2019-09-22 09:20:02 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 00:33:43 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:13:16 UTC; unix"
       }
     },
     "plogr": {
@@ -811,7 +811,7 @@
         "Maintainer": "Kirill Müller <krlmlr+r@mailbox.org>",
         "Repository": "CRAN",
         "Date/Publication": "2018-03-25 15:25:27 UTC",
-        "Built": "R 4.0.0; ; 2020-04-25 00:39:12 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 06:40:42 UTC; unix"
       }
     },
     "plumber": {
@@ -899,7 +899,7 @@
         "Maintainer": "Joe Cheng <joe@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-06-09 21:50:02 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-06-15 05:26:45 UTC; unix"
+        "Built": "R 4.0.2; x86_64-apple-darwin17.0; 2020-07-16 04:02:14 UTC; unix"
       }
     },
     "purrr": {
@@ -927,7 +927,7 @@
         "Maintainer": "Lionel Henry <lionel@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-04-17 12:10:07 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-04-25 00:39:32 UTC; unix"
+        "Built": "R 4.0.2; x86_64-apple-darwin17.0; 2020-07-15 06:20:44 UTC; unix"
       }
     },
     "rlang": {
@@ -1013,11 +1013,7 @@
     },
     "swagger": {
       "Source": "CRAN",
-      "Repository": "https://cloud.r-project.org/",
-      "GithubRepo": null,
-      "GithubUsername": null,
-      "GithubRef": null,
-      "GithubSha1": null,
+      "Repository": "https://cran.rstudio.com/",
       "description": {
         "Package": "swagger",
         "Type": "Package",
@@ -1095,7 +1091,7 @@
         "Maintainer": "Lionel Henry <lionel@rstudio.com>",
         "Repository": "CRAN",
         "Date/Publication": "2020-05-11 23:10:07 UTC",
-        "Built": "R 4.0.0; ; 2020-05-15 03:57:22 UTC; unix"
+        "Built": "R 4.0.2; ; 2020-07-15 21:47:49 UTC; unix"
       }
     },
     "utf8": {
@@ -1121,7 +1117,7 @@
         "Maintainer": "Patrick O. Perry <patperry@gmail.com>",
         "Repository": "CRAN",
         "Date/Publication": "2018-05-24 17:09:15 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-04-25 00:38:27 UTC; unix"
+        "Built": "R 4.0.2; x86_64-apple-darwin17.0; 2020-07-15 06:19:49 UTC; unix"
       }
     },
     "vctrs": {
@@ -1198,7 +1194,7 @@
         "Packaged": "2020-01-30 20:29:56 UTC; stephej1",
         "Repository": "CRAN",
         "Date/Publication": "2020-02-01 05:50:02 UTC",
-        "Built": "R 4.0.0; x86_64-apple-darwin17.0; 2020-04-25 00:32:22 UTC; unix"
+        "Built": "R 4.0.2; x86_64-apple-darwin17.0; 2020-07-15 06:11:41 UTC; unix"
       }
     }
   },
@@ -1207,10 +1203,10 @@
       "checksum": "e9f665f9f7e50bb2a0f549f1e37d97f3"
     },
     "packrat/desc/assertthat": {
-      "checksum": "1e6c80d9caefb0608236516ca01a1259"
+      "checksum": "ca984fc0263549bbc5ae22d5d5ddafd4"
     },
     "packrat/desc/BH": {
-      "checksum": "8e9d3399f2536865eb2bbb3c176e0f18"
+      "checksum": "44b3bc218bd597b468d1239eafa97ab9"
     },
     "packrat/desc/bit": {
       "checksum": "fa327ac2d1b3cedca8054866fded1851"
@@ -1219,73 +1215,73 @@
       "checksum": "9ae805c3a2da213bdb8cf9409e302ab2"
     },
     "packrat/desc/blob": {
-      "checksum": "eb15e2c17d6b184dd32b347ca36a55c2"
+      "checksum": "a81c338f0b95206388a401d7801f5988"
     },
     "packrat/desc/cli": {
-      "checksum": "fed5ff9ea20ced4894879039f58a0a6f"
+      "checksum": "05fb48611cb76de7840afc742822162c"
     },
     "packrat/desc/config": {
-      "checksum": "975a90190c9c2701ebd25c33dc8a1a65"
+      "checksum": "fa4cefbe887ea4e4b886b5c3aaee2681"
     },
     "packrat/desc/crayon": {
-      "checksum": "07760b1879f9e9d52e9aced882f28c92"
+      "checksum": "52804511738180b4a0c2580d77597b16"
     },
     "packrat/desc/curl": {
-      "checksum": "4b966708aafb4087d309193cb5b219c4"
+      "checksum": "41cdc887343f895ac5b8f60d1642f519"
     },
     "packrat/desc/DBI": {
-      "checksum": "39b6388374fcc06907ab1d98d76598c9"
+      "checksum": "437fa2b7c6b9a5984fcb11913ca15161"
     },
     "packrat/desc/dbplyr": {
-      "checksum": "a79fb12db33fdfe292e721c71ba9ef8f"
+      "checksum": "29c5d105cea29ffd41f193d517206552"
     },
     "packrat/desc/digest": {
-      "checksum": "edbedf57ceba8ab2c86c8920c8be8444"
+      "checksum": "af7159ab62df5a58812de8a244a97cc8"
     },
     "packrat/desc/dplyr": {
       "checksum": "ead669e5c8c1cef936725884e7f00523"
     },
     "packrat/desc/ellipsis": {
-      "checksum": "e1f1051623a5cecacd38e33703534383"
+      "checksum": "e932d87c99dae53a1b042a3544401b89"
     },
     "packrat/desc/fansi": {
-      "checksum": "a3a374bcdf8cac7b32d7441999922ef7"
+      "checksum": "e8a90a6acf84f38fa857933c80d84ca1"
     },
     "packrat/desc/generics": {
-      "checksum": "39ca97c3b31a2d2c41bdf38840c82d8c"
+      "checksum": "23863d9a6c8042582b7ce7278299b98e"
     },
     "packrat/desc/glue": {
       "checksum": "d524009f1a5253bc4ef427b55fe2d5d6"
     },
     "packrat/desc/httpuv": {
-      "checksum": "bf2802dfe784054d4c3724dac31163da"
+      "checksum": "33bf04801ae147a533931e50259b6c6f"
     },
     "packrat/desc/jsonlite": {
       "checksum": "847169999dc9ca81ebac2eca22fcc761"
     },
     "packrat/desc/later": {
-      "checksum": "2cf7e08eceb9eab28cfda9bc2f95260e"
+      "checksum": "a13b33ae1f275451d80e14504647fe33"
     },
     "packrat/desc/lifecycle": {
-      "checksum": "0f33fbb66a00b0d162ca2d6c80f1d3c7"
+      "checksum": "a40215e538726dfb84ef57969f0d62fa"
     },
     "packrat/desc/magrittr": {
-      "checksum": "43e796d528d0c99d4feec43a04b93da1"
+      "checksum": "4cb073b2ddc9323c0e999c4b9f6ef8aa"
     },
     "packrat/desc/memoise": {
-      "checksum": "f8330613d84633ed24dc17184ab18983"
+      "checksum": "4bb290d52f48ae106e35633ae2fef118"
     },
     "packrat/desc/mime": {
-      "checksum": "8e06368741f7e27474d7673f16ce5f20"
+      "checksum": "1bd8e41f0cb688397ae1bea3b2d3e576"
     },
     "packrat/desc/pillar": {
-      "checksum": "9adde0748139f2c570b62d8dae8019ac"
+      "checksum": "b7415ede043696e1527d93adc9b7b592"
     },
     "packrat/desc/pkgconfig": {
-      "checksum": "8c71d0a28955c86bfd6484f94bb3b116"
+      "checksum": "4eea6867f495562957b66424aaefb24b"
     },
     "packrat/desc/plogr": {
-      "checksum": "2ced8aa9fbd468170666a51532338bf9"
+      "checksum": "3e189f390b8b4e5b87e3ac5516cb79f6"
     },
     "packrat/desc/plumber": {
       "checksum": "8a514953fd048b86a94082718d961348"
@@ -1294,13 +1290,13 @@
       "checksum": "49b20cb52351bafa2bd1abd19406c812"
     },
     "packrat/desc/promises": {
-      "checksum": "bcd51f8b90bef143687595973f6201ff"
+      "checksum": "cdd88c9980339cbcfbce229476645ec5"
     },
     "packrat/desc/purrr": {
-      "checksum": "2246e1823e1ca4a1dd23c06ce27fbac9"
+      "checksum": "225d2fae458413aac329a4fe0a172425"
     },
     "packrat/desc/R6": {
-      "checksum": "f62e75b3fa3bc4123cab1b672a09500c"
+      "checksum": "3b7b1588087aee073e6ff5f29b662aff"
     },
     "packrat/desc/Rcpp": {
       "checksum": "b314f1ad450c40b36b3e59e4415d5082"
@@ -1324,10 +1320,10 @@
       "checksum": "72f7f8d600ab3928776ecf3d7f89465b"
     },
     "packrat/desc/tidyselect": {
-      "checksum": "86f8b9f5b3913b6f60731e7779aba172"
+      "checksum": "af8c6fcf70f98c27f4f8b45b1c6c9fcc"
     },
     "packrat/desc/utf8": {
-      "checksum": "2d08c633843b58ab670afe85db29579c"
+      "checksum": "cfcf1c45c96e2c011bae448bf0570104"
     },
     "packrat/desc/vctrs": {
       "checksum": "3dd391bb48a71ff7851c9e930b98e659"
@@ -1336,10 +1332,10 @@
       "checksum": "14904d3160b04dcb7a746993be5f28f7"
     },
     "packrat/desc/yaml": {
-      "checksum": "4027282f1e340e353defdcba581cc73c"
+      "checksum": "fb7c5e712fc99e25e565ec19563c885f"
     },
     "packrat/packrat.lock": {
-      "checksum": "bcc79b6b98edb36d224731bf8164dad2"
+      "checksum": "526eb6594c3b48e2c030ade4b8f5e1b1"
     },
     "plumber.R": {
       "checksum": "a890ebe1b77e59188ec81322f9e1127f"
